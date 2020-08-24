@@ -15,7 +15,8 @@ void seiv()
             }
         }
     }
-    prime[2]=false;
+    prime[2]=false; 
+    // geting false 
 }
 
 int main()
